@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+# sr857-portfolio
 
-## Project info
+Personal portfolio site to share my work in cybersecurity and software development.  
+It includes hands-on projects, dashboards, APIs, and security experiments I’ve built while learning and working in the field.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🔎 What’s inside
+- 🤖 ML-based phishing detection
+- 🌐 Threat intelligence & log analysis
+- 🧩 Threat hunting rules and playbooks
+- 🧪 Malware sandboxing and forensic reports
+- 💻 Full-stack apps with security focus
+- 📱 Responsive, minimal UI
 
-## How can I edit this code?
+## 🛠 Tech stack
+Python, FastAPI, Flask, React, Docker, GitHub Actions, cloud security exposure (AWS/Azure), SIEM tools, and detection rules (Sigma, YARA).
 
-There are several ways of editing your application.
+## ⭐ Featured projects
+- 📧 **PhishGuard AI** – ML phishing email detector (98% accuracy, real-time API + dashboard)  
+  :contentReference[oaicite:0]{index=0}
 
-**Use Lovable**
+- 🛡 **CyberSentinel** – Threat intel correlation + log monitoring (IOC scoring, alerts, real-time view)  
+  :contentReference[oaicite:1]{index=1}
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- 🧭 **Threat Hunting Playbooks** – Sigma & YARA detection rules integrated into SIEM workflows  
+  :contentReference[oaicite:2]{index=2}
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🧬 **Malware Analysis Sandbox** – Automated behavior tracking + forensic reporting  
+  :contentReference[oaicite:3]{index=3}
 
-**Use your preferred IDE**
+## 👤 About me
+Computer Science student and cybersecurity intern from Assam, India.  
+I enjoy building practical security tools, breaking things safely, and improving detection and automation skills through real projects.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Happy to connect if you want to talk security, AI in cyber, or collaboration ideas. 🚀
